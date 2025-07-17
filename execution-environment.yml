@@ -9,7 +9,6 @@ options:
   package_manager_path: /usr/bin/microdnf
   tags:
     - c2bmc-test
-    # - c2bmc-test:latest
 
 additional_build_files:
   - src: ansible.cfg
